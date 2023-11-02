@@ -1,1 +1,1 @@
-# python-builds-cookiecutter
+# cookiecutter-python-builds
