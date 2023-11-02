@@ -12,7 +12,7 @@ on:
 
 jobs:
   lint-and-test:
-    name: Lint and Test Code
+    name: Lint Codebase
     runs-on: ubuntu-latest
 
     steps:
