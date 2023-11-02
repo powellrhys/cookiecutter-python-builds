@@ -1,4 +1,4 @@
-name: Linting & Testing
+name: Lint Repository
 
 on:
   workflow_dispatch:
